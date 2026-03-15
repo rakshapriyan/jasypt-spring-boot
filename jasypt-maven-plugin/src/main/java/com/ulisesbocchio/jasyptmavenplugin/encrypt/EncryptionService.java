@@ -13,8 +13,8 @@ import static java.util.regex.Pattern.DOTALL;
 /**
  * A service for encrypting and decrypting Strings.
  *
- * @author Rupert Madden-Abbott
- * @version $Id: $Id
+ * author Rupert Madden-Abbott
+ * version $Id: $Id
  */
 @Slf4j
 public class EncryptionService {
